@@ -12,5 +12,8 @@ Delete Contact: Delete contacts by name.
 # ATM Bank Interface
 The Java code implements a basic ATM interface with functionalities for viewing account balance, withdrawing and depositing money, viewing a mini statement, and exiting. It employs classes and interfaces for modularity and uses a simple console-based menu for user interaction, ensuring PIN-protected authorization and transaction confirmation.
 
-# Quadratic roots
+# Quadratic Roots
 This Java Swing application presents an attractive Quadratic Equation Solver GUI. Users input coefficients for a quadratic equation, and the program calculates and displays the real roots dynamically. The interface features rounded buttons, a color scheme, and a clean layout for improved visual appeal. The code utilizes event listeners, text fields, and labels to create an interactive and user-friendly experience, while maintaining simplicity and functionality.
+
+# Age Calculator
+The Java program takes user input for two date-time values, calculates the difference in minutes, hours, days, months, and years using the java.time package. It corrects a parsing error and displays the results, providing a basic age calculator based on inputted dates and times.
